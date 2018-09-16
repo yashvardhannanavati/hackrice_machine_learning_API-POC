@@ -1,0 +1,14 @@
+Flask==0.12.2
+Werkzeug==0.14.1
+gunicorn==19.9.0
+requests
+firebase-admin==2.13.0
+wheel
+numpy
+scipy
+pandas
+sklearn
+scikit-learn==0.19.2
+statsmodels
+keras
+six
